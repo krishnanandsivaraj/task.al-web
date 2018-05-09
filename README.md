@@ -2,6 +2,8 @@
 
 > Task.al web application made with VueJS and Firebase as a single page application. (https://web.task.al) 
 
+---
+
 First things first. Clone this repository to your computer or download it as a zip file.
 
 ```git clone https://github.com/kondasoft/task.al-web```
@@ -26,4 +28,4 @@ npm install
 npm run dev
 ```
 
-Done! Questions and anything else? Email at `info@kondasoft.com`
+Done! Questions and anything else. Email at `info@kondasoft.com`
