@@ -1,6 +1,7 @@
 # Task.al Web App
 
-> Task.al web application made with VueJS and Firebase as a single page application. (https://web.task.al) 
+> Task.al web application made with VueJS and Firebase as a single page application.  
+LIVE DEMO: https://web.task.al
 
 ---
 
