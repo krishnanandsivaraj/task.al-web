@@ -8,7 +8,7 @@ First things first. Clone this repository to your computer or download it as a z
 
 ```git clone https://github.com/kondasoft/task.al-web```
 
-`cd` into the directory you have just created and create a new file called '.env'. Use this file to add sensitive information. We store our Firebase config info and our Google analytics code id. 
+`cd` into the directory you have just created and create a new file called `.env`. Use this file to add sensitive information. We store our Firebase config info and our Google analytics code id. 
 
 ```
 GOOGLE_ANALYTICS_ID='Your Google Analytics Id'
